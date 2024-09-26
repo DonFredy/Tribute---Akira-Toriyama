@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+VA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Playwrite+DE+VA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&family=Kavivanar&family=Playwrite+DE+VA:wght@100..400&display=swap');
+body{
+    background-color: rgb(132, 57, 29);
+    background-image: url("https://wallpaperaccess.com/full/5032447.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    background-position: center;
+    
+}
+
+.header-title{
+    font-family:'Playwrite DE VA';
+    color: rgb(228, 184, 27);
+    text-align: center;
+
+}
+
+.video{
+    text-align: center ;
+}
+
+.caption{
+    color: rgb(32, 20, 20);
+    font-family: "Allerta Stencil", sans-serif;
+    font-size: large;
+
+}
+
+
+.header-image1{
+    align-content: first baseline;
+    background-color: grey;
+    width: 15%;
+    height: 15%;
+    outline: 4px solid rgb(0, 0, 0);
+
+}
+
+.header-image2{
+    align-content: first baseline;
+    background-color: grey;
+    width: 30%;
+    height: 30%;
+    outline: 4px solid rgb(0, 0, 0);
+
+}
+
+
+
+.header-image2-1{
+    align-content: first baseline;
+    background-color: grey;
+    width: 15%;
+    height: 15%;
+    outline: 4px solid rgb(0, 0, 0);
+
+}
+
+.header-image3{
+    align-content: first baseline;
+    background-color: grey;
+    width: 20%;
+    height: 20%;
+    outline: 4px solid rgb(0, 0, 0);
+
+
+}
+.subheader{
+    text-align: center;
+    font-size:  2rem;
+    color: rgb(0, 194, 45);
+    font-family: 'Allerta Stencil';    
+}
+
+
+.para{
+    outline: 1px transparent;
+    width: 35%;
+    color: aliceblue;
+    font-family:'Playwrite DE VA';
+    
+    
+}
+
+.para1{
+    color: aliceblue;
+    outline: 1px transparent;
+    width: 60%;
+
+}
+
+.para2{
+    color: aliceblue;
+    outline: 1px transparent;
+    width: 60%;
+}
+
+.desc{
+    color: aliceblue;
+    outline: 1px transparent;
+    width: 60%;
+}
+
+.button-link1{
+    font-size: 2rem;
+    margin: 30px;
+    color: brown;
+    background-color: bisque;
+
+}
+ /* the second button is left simple on prupose, just to show 
+ the difference in appearance between the two */
+.button-link2{
+    text-align: center;
+    font-size: 2rem;
+    
+}
+
